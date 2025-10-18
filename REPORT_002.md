@@ -19,7 +19,8 @@ The course was well-organized and helped me get hands-on experience with machine
  
  ### Screenshot — Course Completion
 
-![alt text](<Screenshot 2025-10-18 005011.png>)
+![WhatsApp Image 2025-10-18 at 00 50 23_0da6c8d2](https://github.com/user-attachments/assets/a8fc3e8f-d614-4141-8edb-2ce0ce0a500e)
+
 ---
 
 ### TASK 2: Kaggle Crafter – Build & Publish Your Own Dataset
